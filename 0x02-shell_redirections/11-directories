@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -mindeph l -type d | wc -l
